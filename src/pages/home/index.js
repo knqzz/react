@@ -33,8 +33,6 @@ function teclaPressionada(e) {
           </ul>
         </div>
       </div>
-
-            <Link className='voltar' to='/'> Voltar para Menu </Link>
         </div>        
   );
 }
